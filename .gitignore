@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Local virtual environment (recreate with run_game.bat or the README steps)
+.venv/
+
+# Generated at runtime
+data.json
